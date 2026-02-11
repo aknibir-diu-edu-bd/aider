@@ -4,7 +4,7 @@ aiohappyeyeballs==2.6.1
     # via
     #   -c requirements/common-constraints.txt
     #   aiohttp
-aiohttp==3.13.2
+aiohttp==3.13.3
     # via
     #   -c requirements/common-constraints.txt
     #   litellm
@@ -81,7 +81,7 @@ fastuuid==0.14.0
     # via
     #   -c requirements/common-constraints.txt
     #   litellm
-filelock==3.20.1
+filelock==3.20.3
     # via
     #   -c requirements/common-constraints.txt
     #   huggingface-hub
@@ -422,7 +422,7 @@ typing-inspection==0.4.2
     # via
     #   -c requirements/common-constraints.txt
     #   pydantic
-urllib3==2.6.2
+urllib3==2.6.3
     # via
     #   -c requirements/common-constraints.txt
     #   requests
